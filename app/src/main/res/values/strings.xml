@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Resep Sajiku</string>
+
+    <string-array name="resep_masak">
+        <item>Ayam Goreng Lengkuas</item>
+        <item>Bihun Kuah Tomyum</item>
+        <item>Bakwan Tahu Udang</item>
+        <item>Sayur Bayam</item>
+        <item>Telur Balado</item>
+    </string-array>
+    <string-array name="description">
+        <item>Ayam Goreng dengan taburan serundeng yang gurih dan lezat.</item>
+        <item>Olahan bihun dengan kuah Tom Yum khas Thailand.</item>
+        <item>Bakwan spesial yang terbuat dari olahan tahu dan udang.</item>
+        <item>Sayur bayam dengan bumbu kuah kaldu terbaik.</item>
+        <item>Sajian telur ayam dengan bumbu balado yang lezat.</item>
+    </string-array>
+</resources>
